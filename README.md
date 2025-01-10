@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to C++/AI.
 - 📫 How to reach me: 2131693324@qq.com
-- 😄 Read more about my blog: [here](yuanahao.github.io)
+- 😄 Read more about my blog: [here](https://yuanahao.github.io/)
 
 ![](https://github-readme-stats.vercel.app/api?username=YuanaHao&show_icons=true&theme=transparent)
 
