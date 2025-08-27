@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to C++/AI.
-- 📫 How to reach me: 2131693324@qq.com
+- 📫 How to reach me: yuanahao574@gmail.com
 - 😄 Read more about my blog: [here](https://yuanahao.github.io/)
 
 ![](https://github-readme-stats.vercel.app/api?username=YuanaHao&show_icons=true&theme=transparent)
