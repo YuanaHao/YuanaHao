@@ -14,9 +14,5 @@
 
 - 📝 I regularly write articles on **[https://yuanahao.github.io/posts/](https://yuanahao.github.io/posts/)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuanaHao&show_icons=true&locale=en&layout=compact" alt="YuanaHao" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YuanaHao&show_icons=true&locale=en" alt="YuanaHao" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuanaHao&" alt="YuanaHao" /></p>
 
